@@ -30,7 +30,7 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
     HWND hwnd = CreateWindowEx(
         0,                      // Optional window styles
         CLASS_NAME,             // Window class name
-        "My Window",            // Window title
+        "Boblox Client v0-alpha.1",            // Window title
         WS_OVERLAPPEDWINDOW,    // Window style
 
         // Size and position
